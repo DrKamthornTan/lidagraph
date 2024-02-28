@@ -1,0 +1,2 @@
+# lidagraph
+lida summarize KG
